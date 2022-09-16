@@ -25,4 +25,4 @@ social:
 - {icon: 'fab fa-orcid fa-3x', link: 'https://orcid.org/0000-0003-4613-2079'}
 
 contacts:
-- {name: 'Dr. Alejandro Blanco Pizarro', title: 'Postdoctoral Researcher', department: 'Wireless Networking Group', institution: 'IMDEA Networks', institution_address: 'Av. del Mar Mediterráneo, 28918, Leganés, Madrid', phone: '', email: 'alejandro.blanco@imdea.org', office: '', image: 'assets/img/imdea.jpeg'}
+- {name: 'Dr. Alejandro Blanco Pizarro', title: 'Postdoctoral Researcher', department: 'Networked Systems Group', institution: 'The University of Edinburgh', institution_address: '10 Crichton St, Newington, Edinburgh EH8 9AB', phone: '', email: 'alejandro.blanco@ed.ac.uk', office: '', image: 'assets/img/forum.jpg'}
