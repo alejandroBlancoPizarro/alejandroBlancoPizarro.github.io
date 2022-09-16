@@ -19,10 +19,10 @@ teaching:
 #- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'fab fa-github', link: 'https://github.com/alejandroBlancoPizarro'}
-- {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/alejandrobp/'}
-- {icon: 'ai ai-google-scholar', link: 'https://scholar.google.es/citations?user=fDb_O4kAAAAJ&hl=es&oi=ao'}
-- {icon: 'fab fa-orcid', link: 'https://orcid.org/0000-0003-4613-2079'}
+- {icon: 'fab fa-github fa-3x', link: 'https://github.com/alejandroBlancoPizarro'}
+- {icon: 'fab fa-linkedin fa-3x', link: 'https://www.linkedin.com/in/alejandrobp/'}
+- {icon: 'ai ai-google-scholar fa-3x', link: 'https://scholar.google.es/citations?user=fDb_O4kAAAAJ&hl=es&oi=ao'}
+- {icon: 'fab fa-orcid fa-3x', link: 'https://orcid.org/0000-0003-4613-2079'}
 
 contacts:
 - {name: 'Dr. Alejandro Blanco Pizarro', title: 'Postdoctoral Researcher', department: 'Wireless Networking Group', institution: 'IMDEA Networks', institution_address: 'Av. del Mar Mediterráneo, 28918, Leganés, Madrid', phone: '', email: 'alejandro.blanco@imdea.org', office: '', image: 'assets/img/imdea.jpeg'}
