@@ -1,20 +1,18 @@
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
-    {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <h4>{{ contact.name }}</h4>
-        <p>{{ contact.title }} | {{ contact.department }}</p>
-        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
-        <!--<p>Phone: {{ contact.phone }}</p> -->
-        <p>Email: {{ contact.email }}</p>
-        <!-- <p>Office: {{ contact.office }}</p> -->
+        <h4>Dr. Alejandro Blanco Pizarro</h4> 
+        <p>Postdoctoral Researcher | Networked Systems Group</p>
+        <p>The University of Edinburgh | 10 Crichton St, Newington, Edinburgh EH8 9AB</p>
+        <!-- <p>Phone: +34 xxx xx xx xx </p> -->
+        <p>Email: alejandro.blanco@ed.ac.uk</p>
+        <!-- <p>Office: xxxxx </p> -->
       </div>
-      <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
+      <div class="col-md-4">
+        <img src="{{ site.github.url }}/assets/img/forum.jpg" alt="Contact" width="100%">
       </div>
     </div>
-    {% endfor %}
   </div>
 </div>
