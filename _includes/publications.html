@@ -111,7 +111,6 @@
     <h4>Conference papers</h4>
       {% for item in site.data.publications.conference %}
         <p> <b>{{ item.idx }}</b>.&nbsp;
-          <p> <b>{{ item.short_name }}</b>.&nbsp;
           {% for item_authors in item.authors %}
             {% if item_authors.last == "1" %}
               {% if item_authors.me == "1" %}
